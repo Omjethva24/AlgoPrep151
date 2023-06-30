@@ -13,3 +13,10 @@ Today I solve this 3 Problem:
     1. Maximum Product Subarray
     2. Majority Element
     3. Majority Element II
+
+# Day 3 (30/6)
+Today I solve this 3 Problem:
+
+    1. Next Greater Element III
+    2. Max Chunks To Make Sorted
+    3. Max Chunks To Make Sorted II(hard)
