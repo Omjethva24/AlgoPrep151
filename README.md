@@ -20,3 +20,10 @@ Today I solve this 3 Problem:
     1. Next Greater Element III
     2. Max Chunks To Make Sorted
     3. Max Chunks To Make Sorted II(hard)
+
+# Day 4 (1/7)
+Today I solve this 3 Problem:
+
+    1. Number of Subarrays with Bounded Maximum
+    2. First Missing Positive(hard)
+    3. Range Addition
