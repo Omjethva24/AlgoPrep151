@@ -27,3 +27,13 @@ Today I solve this 3 Problem:
     1. Number of Subarrays with Bounded Maximum
     2. First Missing Positive(hard)
     3. Range Addition
+
+# Day 5 (2/7)
+Today I solve don't solve any problem because of sunday i not at home.
+
+# Day 6 (3/7)
+Today I solve this 3 Problem:
+
+    1. Number of Subarrays with Bounded MaximumMinimum Platforms
+    2. First Missing Positive(hard)Trapping Rain Water
+    3. Container With Most Water
