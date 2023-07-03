@@ -29,7 +29,7 @@ Today I solve this 3 Problem:
     3. Range Addition
 
 # Day 5 (2/7)
-Today I solve don't solve any problem because of sunday i not at home.
+Today I solve don't solve any problem because of sunday I wasn't at home.
 
 # Day 6 (3/7)
 Today I solve this 3 Problem:
