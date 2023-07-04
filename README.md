@@ -37,3 +37,10 @@ Today I solve this 3 Problem:
     1. Number of Subarrays with Bounded MaximumMinimum Platforms
     2. First Missing Positive(hard)Trapping Rain Water
     3. Container With Most Water
+
+# Day 7 (4/7)
+Today I solve this 3 Problem:
+
+    1. Key pair
+    2. Find Pair Given Difference
+    3. Permutations
