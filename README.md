@@ -61,6 +61,6 @@ Today I solve this 3 Problem:
 # Day 10 (8/7)
 Today I solve this 3 Problem:
 
-    19. Letter Combination of phone number
-    20. N Queens
-    21. Rate in a maze problem
+    22. Letter Combination of phone number
+    23. N Queens
+    24. Rate in a maze problem
