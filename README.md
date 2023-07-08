@@ -57,3 +57,10 @@ Today I solve this 3 Problem:
     19. Permutation Sequence
     20. Combination Sum
     21. Combination Sum II
+
+# Day 10 (8/7)
+Today I solve this 3 Problem:
+
+    19. Letter Combination of phone number
+    20. N Queens
+    21. Rate in a maze problem
