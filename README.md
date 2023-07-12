@@ -68,6 +68,19 @@ Today I solve this 3 Problem:
 # Day 12 (9/7)
 Today I solve this 3 Problem:
 
-    22. Single Number
-    23. Single Number II
-    24. Single Number III
+    25. Single Number
+    26. Single Number II
+    27. Single Number III
+
+# Day 13 (10/7)
+Today I  can't solve any problem.
+
+# Day 14 (11/7)
+Today I  can't solve any problem.
+
+# Day 15 (12/7)
+Today I solve this 3 Problem:
+
+    28. Maximum AND Value
+    29. Single Number II
+    30. Check Arithmetic Progression
