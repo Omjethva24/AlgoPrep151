@@ -81,6 +81,6 @@ Today I  can't solve any problem.
 # Day 15 (12/7)
 Today I solve this 3 Problem:
 
-    28. Maximum AND Value
-    29. Single Number II
+    28. Divide Two Integers
+    29. Maximum AND Value
     30. Check Arithmetic Progression
