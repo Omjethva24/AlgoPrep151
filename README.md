@@ -95,3 +95,18 @@ Today I solve this 4 Problem:
     32. Brick Wall
     33. Subarray Sum Equals K
     34. Subarray Sums Divisible by K
+
+# Day 18 (15/7)
+Today I  can't solve any problem.
+
+# Day 19 (16/7)
+Today I solve this 8 Problem because today is sunday its also 12:15 am right now monday(17/7) was started but finally i use my sunday:
+
+    35. Insert Delete GetRandom O(1)
+    36. Insert Delete GetRandom O(1) - Duplicates allowed
+    37. Longest Consecutive Sequence
+    38. Find All Anagrams in a String
+    39. Minimum Window Substring
+    40. Write Hashmap
+    41. Subarrays with equal 1s and 0s
+    42. Count Substrings with equal number of 0s, 1s and 2s
