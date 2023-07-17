@@ -110,3 +110,11 @@ Today I solve this 8 Problem because today is sunday its also 12:15 am right now
     40. Write Hashmap
     41. Subarrays with equal 1s and 0s
     42. Count Substrings with equal number of 0s, 1s and 2s
+
+# Day 20 (17/7)
+Today I solve this 4 Problem:
+
+    43. Kth Largest Element in an Array
+    44. Minimum Number of Refueling Stops
+    45. Minimum Cost of ropes(leetcode premium so i solve from gfg)
+    46. Employee Free Time(leetcode premium so i find pro. from other website)
