@@ -118,3 +118,6 @@ Today I solve this 4 Problem:
     44. Minimum Number of Refueling Stops
     45. Minimum Cost of ropes(leetcode premium so i solve from gfg)
     46. Employee Free Time(leetcode premium so i find pro. from other website)
+
+# Day 21 (18/7)
+    Today I  can't solve any problem
