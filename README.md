@@ -121,3 +121,9 @@ Today I solve this 4 Problem:
 
 # Day 21 (18/7)
     Today I  can't solve any problem
+
+# Day 22 (19/7)
+Today I solve this 2 Problem:
+
+    47. Find Median from Data Stream
+    48. Capacity To Ship Packages Within D Days
