@@ -131,9 +131,9 @@ Today I solve this 2 Problem:
 # Day 23 (20/7)
 Today I solve this 3 Problem but i upload on 21/7:
 
-    49. Find Median from Data Stream
-    50. Capacity To Ship Packages Within D Days
-    51. Find Median from Data Stream
+    49. Painter's Partition Problem
+    50. Search in Rotated Sorted Array
+    51. Search in Rotated Sorted Array II
 
 # Day 24 (21/7)
 Today I solve this 3 Problem but i upload on 21/7:
