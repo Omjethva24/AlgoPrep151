@@ -127,3 +127,16 @@ Today I solve this 2 Problem:
 
     47. Find Median from Data Stream
     48. Capacity To Ship Packages Within D Days
+
+# Day 23 (20/7)
+Today I solve this 3 Problem but i upload on 21/7:
+
+    49. Find Median from Data Stream
+    50. Capacity To Ship Packages Within D Days
+    51. Find Median from Data Stream
+
+# Day 24 (21/7)
+Today I solve this 3 Problem but i upload on 21/7:
+
+    52. Allocate Books
+    53. Median of Two Sorted Arrays
