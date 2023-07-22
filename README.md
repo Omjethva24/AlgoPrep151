@@ -140,3 +140,12 @@ Today I solve this 3 Problem but i upload on 21/7:
 
     52. Allocate Books
     53. Median of Two Sorted Arrays
+
+# Day 25 (22/7)
+Today I solve this 5 Problem I solve this at 22/7 but i push github at 12:45 am at 23/7:
+
+    54. Reverse Linked List
+    55. Finding middle element in a linked list
+    56. Detect Loop in linked list
+    57. Clone a linked list with next and random pointer
+    58. Intersection Point in Y Shaped Linked Lists
