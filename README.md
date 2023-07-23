@@ -149,3 +149,10 @@ Today I solve this 5 Problem I solve this at 22/7 but i push github at 12:45 am 
     56. Detect Loop in linked list
     57. Clone a linked list with next and random pointer
     58. Intersection Point in Y Shaped Linked Lists
+
+# Day 26 (23/7)
+Today I solve this 3 Problem:
+
+    59. LRU Cache
+    60. Next Greater Element I
+    61. Largest Rectangle in Histogram
