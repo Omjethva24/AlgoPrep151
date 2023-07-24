@@ -156,3 +156,11 @@ Today I solve this 3 Problem:
     59. LRU Cache
     60. Next Greater Element I
     61. Largest Rectangle in Histogram
+
+# Day 27 (24/7)
+Today I solve this 4 Problem:
+
+    62. Maximal Rectangle
+    63. Valid Parentheses
+    64. Min Stack
+    65. k stacks in a single array
