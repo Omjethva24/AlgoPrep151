@@ -167,3 +167,18 @@ Today I solve this 4 Problem:
 
 # Day 28 (25/7)
 Today I  can't solve any problem.
+
+# Day 29-30 (26/7)
+Today I solve this 11 Problem because today i not go in college and today i show this video uploaded on 27 jun and i start from 28 jun so according challenge today is day 30 not 29 so today i assume today 30 day and tommorow is day 31 by the way 'Aaj to maja aa gaya':
+
+    66. Infix evaluation-basic calculater
+    67. Reversing the first K elements of a Queue
+    68. implement k Queues in a single array
+    69. Preorder Traversal
+    70. Inorder Traversal
+    71. Postorder Traversal
+    72. Right Side View
+    73. Left View of Binary Tree
+    74. Top View of Binary Tree
+    75. Bottom View of Binary Tree
+    76. Vertical Order Traversal of a Binary Tree
