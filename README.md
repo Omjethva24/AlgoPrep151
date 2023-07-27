@@ -182,3 +182,10 @@ Today I solve this 11 Problem because today i not go in college and today i show
     74. Top View of Binary Tree
     75. Bottom View of Binary Tree
     76. Vertical Order Traversal of a Binary Tree
+
+# Day 31 (27/7)
+Today I solve this 2 Problem:
+
+    77. Diagonal Traversal
+    78. Boundary Traversal
+
