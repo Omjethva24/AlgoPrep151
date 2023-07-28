@@ -189,3 +189,10 @@ Today I solve this 2 Problem:
     77. Diagonal Traversal
     78. Boundary Traversal
 
+# Day 32 (28/7)
+Today I solve this 3 Problem I solve this at 28/7 but i push github at 12:45 am at 29/7:
+
+    79. Binary Tree Cameras
+    80. Binary Tree Maximum Path Sum
+    81. Delete Node in a BST
+
