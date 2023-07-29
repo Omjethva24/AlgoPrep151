@@ -196,3 +196,13 @@ Today I solve this 3 Problem I solve this at 28/7 but i push github at 12:45 am 
     80. Binary Tree Maximum Path Sum
     81. Delete Node in a BST
 
+# Day 33 (29/7)
+Today I solve this 6 Problem I solve this at 29/7 but i push github at 12:38 am at 28/7:
+
+    82. Construct Binary Tree from Preorder and Inorder Traversal
+    83. Populating Next Right Pointers in Each Node
+    84. Binary Tree to CDLL
+    85. Sorted DLL to Balanced BST - article
+    86. Lowest Common Ancestor in a Binary Tree
+    87. Serialize and Deserialize Binary Tree
+
