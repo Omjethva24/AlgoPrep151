@@ -206,3 +206,11 @@ Today I solve this 6 Problem I solve this at 29/7 but i push github at 12:38 am 
     86. Lowest Common Ancestor in a Binary Tree
     87. Serialize and Deserialize Binary Tree
 
+# Day 34 (30/7)
+Today I solve this 3 Problem tomorrow i will start solving most Frequently asked i interview is Graph and DP problems:
+
+    88. Implement Trie (Prefix Tree)
+    89. Maximum XOR of Two Numbers in an Array
+    90. Maximum XOR With an Element From Array(Hard)
+
+

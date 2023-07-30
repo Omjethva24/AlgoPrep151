@@ -1,6 +1,7 @@
 //Maximum XOR With an Element From Array
 
 
+
 class Solution {
     class Node{
         Node zero, one;
