@@ -216,4 +216,5 @@ Today I solve this 3 Problem tomorrow i will start solving most Frequently asked
 # Day 35 (31/7)
 Today i dont do any problem because next 2-3 days i learn or revise Graph and DP concept.
 
-
+# Day 36 (1/8)
+Today i dont do any problem because i learn or revise Graph and DP concept today i learn about dijkstra algo any etc.
