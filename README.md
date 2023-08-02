@@ -218,3 +218,6 @@ Today i dont do any problem because next 2-3 days i learn or revise Graph and DP
 
 # Day 36 (1/8)
 Today i dont do any problem because i learn or revise Graph and DP concept today i learn about dijkstra algo any etc.
+
+# Day 37 (2/8)
+Today i dont do any problem because today i deeply study of graph various algorithms like prims algorithm, kruskal algorithm, disjoint ds, kahn's algorithm and flood Fill algorithm, Tarjans algorithm so from tomorrow i started graph problems.
