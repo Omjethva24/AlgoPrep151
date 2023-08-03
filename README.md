@@ -221,3 +221,6 @@ Today i dont do any problem because i learn or revise Graph and DP concept today
 
 # Day 37 (2/8)
 Today i dont do any problem because today i deeply study of graph various algorithms like prims algorithm, kruskal algorithm, disjoint ds, kahn's algorithm and flood Fill algorithm, Tarjans algorithm so from tomorrow i started graph problems.
+
+# Day 38 (3/8)
+Today I have done six questions but I have not done them in order so I will write them tomorrow when they are solved together.
