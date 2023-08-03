@@ -223,4 +223,14 @@ Today i dont do any problem because i learn or revise Graph and DP concept today
 Today i dont do any problem because today i deeply study of graph various algorithms like prims algorithm, kruskal algorithm, disjoint ds, kahn's algorithm and flood Fill algorithm, Tarjans algorithm so from tomorrow i started graph problems.
 
 # Day 38 (3/8)
-Today I have done six questions but I have not done them in order so I will write them tomorrow when they are solved together.
+Today I have done 9 questions but I have not done them in order and other all graph all problems i solve tommorro and then i started DP.
+
+    128. Number of Islands
+    129. Number of Distinct Islands(primeum in leetcode solve in gfg)
+    130. Rotting Oranges
+    131. Is Graph Bipartite?
+    133. Prim's algoritms - MST
+    134. Dijkstra Algorithm
+    137. Bellman-Ford Algorithm
+    139. Mother Vertex
+    140. Kahn’s algorithm for Topological Sorting
