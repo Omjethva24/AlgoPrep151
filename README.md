@@ -242,3 +242,5 @@ Today I have done this problems.
     138. Strongly Connected Components (Kosaraju's Algo)
     145. Redundant Connection
     147. Articulation point
+    148. Min swaps required to sort array
+    151. remove max number of edges to keep graph traversal
