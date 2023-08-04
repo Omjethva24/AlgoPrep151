@@ -234,3 +234,11 @@ Today I have done 9 questions but I have not done them in order and other all gr
     137. Bellman-Ford Algorithm
     139. Mother Vertex
     140. Kahn’s algorithm for Topological Sorting
+
+# Day 39 (4/8)
+Today I have done this problems.
+
+    136. 0-1 matrix
+    138. Strongly Connected Components (Kosaraju's Algo)
+    145. Redundant Connection
+    147. Articulation point
