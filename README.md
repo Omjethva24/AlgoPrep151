@@ -244,3 +244,16 @@ Today I have done this problems.
     147. Articulation point
     148. Min swaps required to sort array
     151. remove max number of edges to keep graph traversal
+
+# Day 40 (5/8)
+Today I have done this problems.I upload at 2 am almost start 6/8 but i do all in day 40(5/8).Aaj to halat tight ho gai🥵. I think most of this is some Hard.Finally Graph Complete.Tomorrow i Started DP.
+
+    132. Bus routes
+    135. swim in rising water
+    141. Alien Dictionary
+    142. Number of Islands II 
+    143. Regions Cut By Slashes
+    144. Sentence Similarity II
+    146. Redundant connection 2
+    149. Sliding Puzzle
+    150. Floyd Warshall
