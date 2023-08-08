@@ -270,3 +270,11 @@ Today I have done this 6 problems. 126 and 127 given pepcodeing link but i dont 
     125. Fractional knapsack(greedy)
     126. Coin change combination(leetcode.322)
     127. Coin change permutation(leetcode.518)
+
+# Day 43 (8/8)
+Today I have done this problems.Prblem no. 91 & 92 are both same.I think he want write Longest common substring instead of this. Yes i know its alo 11 pm but and i have so many problems i solve for late night and i don't go college tomorrow.
+
+    91. Longest Increasing Subsequence
+    92. Longest Increasing Subsequence(instead of this we can solve"Longest common substring")
+    104. Best Time to Buy and Sell Stock
+    122. Edit Distance
