@@ -278,3 +278,17 @@ Today I have done this problems.Prblem no. 91 & 92 are both same.I think he want
     92. Longest Increasing Subsequence(instead of this we can solve"Longest common substring")
     104. Best Time to Buy and Sell Stock
     122. Edit Distance
+
+# Day 46 (9/8)
+Today I have done this 10 problems. 
+
+    93. building bridges
+    94. Russian Doll Envelopes(hard)
+    97. Consecutive 1's not allowed
+    99. Unique BST's(catalan's)
+    105. Best Time to Buy and Sell Stock II
+    106. Best Time to Buy and Sell Stock with Transaction Fee
+    107. best time to buy and sell with cool down
+    108. Best Time to Buy and Sell Stock III
+    109. Best Time to Buy and Sell Stock IV
+    119. Regular Expression Matching
