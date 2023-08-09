@@ -279,7 +279,7 @@ Today I have done this problems.Prblem no. 91 & 92 are both same.I think he want
     104. Best Time to Buy and Sell Stock
     122. Edit Distance
 
-# Day 46 (9/8)
+# Day 44 (9/8)
 Today I have done this 10 problems. I know i have left 10+ unsolved problem and only 1 day left so Today I will solve till late night. 
 
     93. building bridges
@@ -292,3 +292,13 @@ Today I have done this 10 problems. I know i have left 10+ unsolved problem and 
     108. Best Time to Buy and Sell Stock III
     109. Best Time to Buy and Sell Stock IV
     119. Regular Expression Matching
+
+# Day 45 (10/8)
+Finnally, this is the last day of challange. today i solve this problems. 
+
+This 5 problems i solve till late night
+    95. Box Stacking
+    96. Paint house
+    98. Count possible ways to construct buildings
+    100. No. of balanced parentheses sequence(link not attached)
+    101. Min Cost Path
