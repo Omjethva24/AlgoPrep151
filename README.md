@@ -310,5 +310,5 @@ Finnally, this is the last day of challange. today i solve this problems.
     114. Count All Palindromic Subsequence in a given String
     116. Number of subsequences of the form a^i b^j c^k
     117. 2 Eggs and 100 Floors
-    118. 2 Eggs and 100 Floors
+    118. egg dropping
     121. Frog Jump
