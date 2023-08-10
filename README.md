@@ -323,7 +323,8 @@ Finnally, this is the last day of challange. today i solve this problems.
     118. egg dropping
     121. Frog Jump
 
-     #finally i solve last left 4 problems. My most of time take problem no.111 & 115 and currently time is 2.25 AM. but anyway finally i complated this challenge🥳. 
+     #finally i solve last left 4 problems. My most of time take problem
+     no.111 & 115 and currently time is 2.25 AM. but anyway finally i complated this challenge🥳. 
     110. burst balloons
     111. Optimal BST(Hard)
     115. Count distinct pallindromic subsequence(Hard)
