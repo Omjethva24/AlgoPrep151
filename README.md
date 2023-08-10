@@ -1,3 +1,13 @@
+# Completed!
+🎉 Woohoo! Completed the #AlgoPrep151 Challenge in 45 days! 🚀
+
+Finally I've finished the #AlgoPrep151 challenge and solved 151 DSA problems in just 45 days! 🎉 In the last 10-15 days, I slept at 12 or 1:00 am daily.
+
+Problem sheet for track and comments:
+https://docs.google.com/spreadsheets/d/1_vs7QAv6Saqg1jHbcvP3MZW5XVSoc7dWwwnG0gk7OpI/edit#gid=0
+
+It's been a journey filled with learning, growth, and a few sleepless nights, but the satisfaction of completing every challenge has made it all worthwhile.
+
 # AlgoPrep151
 
 # Day 1 (28/6)
