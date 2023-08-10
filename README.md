@@ -302,3 +302,13 @@ Finnally, this is the last day of challange. today i solve this problems.
     98. Count possible ways to construct buildings
     100. No. of balanced parentheses sequence(link not attached)
     101. Min Cost Path
+
+    #solve in day
+    102. Cherry Pickup
+    103. Cherry Pickup II
+    112. Matrix Chain Multiplication
+    114. Count All Palindromic Subsequence in a given String
+    116. Number of subsequences of the form a^i b^j c^k
+    117. 2 Eggs and 100 Floors
+    118. 2 Eggs and 100 Floors
+    121. Frog Jump
